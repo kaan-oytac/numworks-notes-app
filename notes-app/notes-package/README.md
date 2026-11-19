@@ -1,4 +1,4 @@
-# Notes — Markdown + maths reader for the NumWorks calculator
+# Notes: Markdown + maths reader for the NumWorks calculator
 
 A native external app (.nwa) for stock Epsilon that shows notes written in
 Markdown, with LaTeX-style maths rendered the way the calculator draws it:
